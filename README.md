@@ -1,4 +1,4 @@
-# Crop-Recommendation-Using-Random-Forest
+
 Machine learning tutorial demonstrating crop recommendation using Random Forest based on soil nutrients and climate features.
 # Crop Recommendation Using Random Forest
 
@@ -22,7 +22,7 @@ The tutorial explains how the model was trained, evaluated, and interpreted usin
 
 Open the notebook here:
 
-PASTE YOUR COLAB LINK HERE
+https://colab.research.google.com/drive/1QgqBj9Ia3LOQTTclkx7wAYdTYPw1ehBw#scrollTo=PEgcCD2qLk9v
 
 ## Dataset Source
 
